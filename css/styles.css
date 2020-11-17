@@ -10389,6 +10389,7 @@ a.text-dark:focus {
 }
 .page-section {
     padding: 6rem 0;
+    background-color: #c4cfb4 !important;
 }
 .page-section .page-section-heading {
     font-size: 2.25rem;
@@ -10568,7 +10569,7 @@ a.text-dark:focus {
     left: 0;
     transition: all 0.2s ease-in-out;
     opacity: 0;
-    background-color: rgba(218,125,117,.9)
+    background-color: rgba(218, 125, 117, 0.9);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
     opacity: 1;
@@ -10650,10 +10651,10 @@ form .row:first-child .floating-label-form-group {
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: white;
+    background-color: #c4cfb4 !important;
     color: #fff;
 }
 
 .copyright {
-    background-color: #1a252f;
+    background-color: #da7d75;
 }
